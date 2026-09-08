@@ -1,3 +1,13 @@
+# WDD 430 Portfolio
+
+This is my web development portfolio built with Next.js, React, TypeScript, and Tailwind CSS.
+
+## Live Deployment
+
+The application is deployed on Vercel:
+
+https://wdd430-portfolio-beige.vercel.app
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
